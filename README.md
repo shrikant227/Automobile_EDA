@@ -10,6 +10,4 @@ In this project the problem statements are :
 2. Which are the highest number of vehicles based on brand, body style and price slab?
 3. Do the Body Style and Engine Specification determine the vehicle price?
 
-![enter image description here](https://github.com/shrikant227/Automobile_EDA/blob/main/NADA_Market_Beat_900x500.jpg?raw=true)
-
 To check out my notebook please click [here](https://github.com/shrikant227/Automobile_EDA/blob/main/AutomobileData_Project.ipynb).
